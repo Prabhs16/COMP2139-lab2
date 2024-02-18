@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ICE2.props" />
+</Project>
